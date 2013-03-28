@@ -1,4 +1,4 @@
-Main
-====
+Master
+======
 
-Main repository.  The first one created.
+Master repository.  The first one created.
